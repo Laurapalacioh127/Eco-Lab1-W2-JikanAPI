@@ -1,0 +1,24 @@
+{
+  "name": "lab-1---w2---jikan-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "http-server -p 3000"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Laurapalacioh127/Eco-Lab1-W2-JikanAPI.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Laurapalacioh127/Eco-Lab1-W2-JikanAPI/issues"
+  },
+  "homepage": "https://github.com/Laurapalacioh127/Eco-Lab1-W2-JikanAPI#readme",
+  "dependencies": {
+    "http-server": "^14.1.1"
+  }
+}
